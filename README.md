@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @delaradadsepah
+- 👀 I’m interested in designing and building products users love
+- 🌱 I’m currently learning how to complete migrating legacy systems to a modern infrastructure 
