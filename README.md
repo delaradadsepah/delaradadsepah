@@ -1,3 +1,8 @@
-- 👋 Hi, I’m @delaradadsepah
-- 👀 I’m interested in designing and building products users love
-- 🌱 I’m currently learning how to complete migrating legacy systems to a modern infrastructure 
+- 👋 Hi, I’m Delara
+- 🐣 I was born in Mississauga, Canada and attended a french immersion secondary school
+- 🎓 I completed my bachelor of science and master of science at the University of Toronto
+- 👀 I’m always interested in learning new skills and technologies
+- 🌱 I’m learning how to seamlessly migrate a legacy system to a modern infrastructure 
+- 📝 I currently work as a UX Content Strategist at ACTO (https://www.acto.com/)
+- 🚀 I love working with Product, Design, and Engineering teams to create magical product experiences for users. I currently act as a liason between our product/design team and other teams at ACTO.
+- 🗺 I've travelled to 🇬🇷, 🇪🇸, and many other countries in the world and always love exploring new countries and cultures.
