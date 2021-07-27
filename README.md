@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Delara
 - 🐣 I was born in Mississauga, Canada and attended a french immersion secondary school
-- 🎓 I completed my bachelor of science and master of science at the University of Toronto
+- 🎓 I completed my Bachelor of Science and Master of Science at the University of Toronto
 - 👀 I’m always interested in learning new skills and technologies
 - 🌱 I’m learning how to seamlessly migrate a legacy system to a modern infrastructure 
 - 📝 I currently work as a UX Content Strategist at ACTO (https://www.acto.com/)
